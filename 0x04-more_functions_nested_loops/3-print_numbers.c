@@ -3,7 +3,6 @@
 
 /**
   * print_numbers - check the code
-  * @l: parameter
   * Return: 0 (Success)
   */
 void print_numbers(void)
