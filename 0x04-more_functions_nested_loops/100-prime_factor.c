@@ -4,7 +4,7 @@
 
 /**
   * main - check the code
-  * @l: parameter
+  * Description: a program that finds and prints the largest prime factor
   * Return: 0 (Success)
   */
 int main(void)
