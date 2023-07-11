@@ -24,6 +24,7 @@ char *create_array(unsigned int size, char c)
 
 	if (lArray == NULL)
 		return (NULL);
+
 	for (l = 0; l < size; l++)
 	{
 		lArray[l] = c;
