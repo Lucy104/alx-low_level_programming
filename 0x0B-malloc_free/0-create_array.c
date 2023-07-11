@@ -13,11 +13,8 @@ char *create_array(unsigned int size, char c)
 	unsigned int l;
 	char *lArray;
 
-	for (l = 0; l < size; l++)
-	{
 		if (size == 0)
 			return (NULL);
-	}
 
 	/* return a pointer to the allocated memory */
 	lArray = malloc(size * sizeof(char));
